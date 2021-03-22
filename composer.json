@@ -1,0 +1,10 @@
+{
+    "name": "borna/packagist-flag",
+    "authors": [
+        {
+            "name": "Borna Butkovic",
+            "email": "bornabutkovic@gmail.com"
+        }
+    ],
+    "require": {}
+}
